@@ -24,14 +24,10 @@ namespace Kodee.Services
             int id = 0;
 
             _dataProvider.ExecuteNonQuery(
-                "dbo.Addresses_Insert",
+                "dbo.Addresses2_Insert",
                 inputParamMapper: delegate (SqlParameterCollection paramCol)
                 {
-                    paramCol.AddWithValue("@LineOne", model.LineOne);
-                    paramCol.AddWithValue("@LineTwo", model.LineTwo);
-                    paramCol.AddWithValue("@City", model.City);
-                    paramCol.AddWithValue("@Zip", model.Zip);
-                    paramCol.AddWithValue("@State", model.State);
+                    paramCol.AddWithValue("@Address", model.Address);
                     paramCol.AddWithValue("@Latitude", model.Latitude);
                     paramCol.AddWithValue("@Longitude", model.Longitude);
 

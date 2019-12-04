@@ -1,12 +1,12 @@
 import axios from "axios";
 import * as serviceHelper from "./serviceHelper";
 
-const entity = "/api/addresses";
+const entity = "https://localhost:50001/api/addresses/";
 
 const create = payload => {
   const config = {
     method: "POST",
-    url: serviceHelper.API_HOST_PREFIX + entity,
+    url: entity,
     data: payload,
     withCredentials: true,
     crossdomain: true,

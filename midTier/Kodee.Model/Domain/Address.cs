@@ -6,15 +6,7 @@ namespace Kodee.Model.Domain
 {
     public class Location
     {
-        public string LineOne { get; set; }
-
-        public string LineTwo { get; set; }
-
-        public string City { get; set; }
-
-        public string Zip { get; set; }
-
-        public string State { get; set; }
+        public string Address { get; set; }
 
         public double? Latitude { get; set; }
 
