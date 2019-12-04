@@ -1,0 +1,13 @@
+C:\Kodee\midTier\Kodee.Services\bin\Debug\netcoreapp2.2\Kodee.Services.deps.json
+C:\Kodee\midTier\Kodee.Services\bin\Debug\netcoreapp2.2\Kodee.Services.dll
+C:\Kodee\midTier\Kodee.Services\bin\Debug\netcoreapp2.2\Kodee.Services.pdb
+C:\Kodee\midTier\Kodee.Services\bin\Debug\netcoreapp2.2\Kodee.Data.dll
+C:\Kodee\midTier\Kodee.Services\bin\Debug\netcoreapp2.2\Kodee.Model.dll
+C:\Kodee\midTier\Kodee.Services\bin\Debug\netcoreapp2.2\Kodee.Data.pdb
+C:\Kodee\midTier\Kodee.Services\bin\Debug\netcoreapp2.2\Kodee.Model.pdb
+C:\Kodee\midTier\Kodee.Services\obj\Debug\netcoreapp2.2\Kodee.Services.csprojAssemblyReference.cache
+C:\Kodee\midTier\Kodee.Services\obj\Debug\netcoreapp2.2\Kodee.Services.AssemblyInfoInputs.cache
+C:\Kodee\midTier\Kodee.Services\obj\Debug\netcoreapp2.2\Kodee.Services.AssemblyInfo.cs
+C:\Kodee\midTier\Kodee.Services\obj\Debug\netcoreapp2.2\Kodee.Services.csproj.CopyComplete
+C:\Kodee\midTier\Kodee.Services\obj\Debug\netcoreapp2.2\Kodee.Services.dll
+C:\Kodee\midTier\Kodee.Services\obj\Debug\netcoreapp2.2\Kodee.Services.pdb

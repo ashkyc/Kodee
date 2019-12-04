@@ -1,0 +1,8 @@
+C:\Kodee\midTier\Kodee.Model\bin\Debug\netcoreapp2.2\Kodee.Model.deps.json
+C:\Kodee\midTier\Kodee.Model\bin\Debug\netcoreapp2.2\Kodee.Model.dll
+C:\Kodee\midTier\Kodee.Model\bin\Debug\netcoreapp2.2\Kodee.Model.pdb
+C:\Kodee\midTier\Kodee.Model\obj\Debug\netcoreapp2.2\Kodee.Model.csprojAssemblyReference.cache
+C:\Kodee\midTier\Kodee.Model\obj\Debug\netcoreapp2.2\Kodee.Model.AssemblyInfoInputs.cache
+C:\Kodee\midTier\Kodee.Model\obj\Debug\netcoreapp2.2\Kodee.Model.AssemblyInfo.cs
+C:\Kodee\midTier\Kodee.Model\obj\Debug\netcoreapp2.2\Kodee.Model.dll
+C:\Kodee\midTier\Kodee.Model\obj\Debug\netcoreapp2.2\Kodee.Model.pdb

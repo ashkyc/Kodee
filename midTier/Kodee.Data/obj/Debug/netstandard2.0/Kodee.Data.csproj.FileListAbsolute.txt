@@ -1,0 +1,8 @@
+C:\Kodee\midTier\Kodee.Data\bin\Debug\netstandard2.0\Kodee.Data.deps.json
+C:\Kodee\midTier\Kodee.Data\bin\Debug\netstandard2.0\Kodee.Data.dll
+C:\Kodee\midTier\Kodee.Data\bin\Debug\netstandard2.0\Kodee.Data.pdb
+C:\Kodee\midTier\Kodee.Data\obj\Debug\netstandard2.0\Kodee.Data.csprojAssemblyReference.cache
+C:\Kodee\midTier\Kodee.Data\obj\Debug\netstandard2.0\Kodee.Data.AssemblyInfoInputs.cache
+C:\Kodee\midTier\Kodee.Data\obj\Debug\netstandard2.0\Kodee.Data.AssemblyInfo.cs
+C:\Kodee\midTier\Kodee.Data\obj\Debug\netstandard2.0\Kodee.Data.dll
+C:\Kodee\midTier\Kodee.Data\obj\Debug\netstandard2.0\Kodee.Data.pdb

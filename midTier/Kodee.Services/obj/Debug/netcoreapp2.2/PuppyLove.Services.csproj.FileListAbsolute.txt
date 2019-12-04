@@ -1,0 +1,14 @@
+C:\PuppyLove\PuppyLove\PuppyLove.Services\bin\Debug\netcoreapp2.2\PuppyLove.Services.deps.json
+C:\PuppyLove\PuppyLove\PuppyLove.Services\bin\Debug\netcoreapp2.2\PuppyLove.Services.dll
+C:\PuppyLove\PuppyLove\PuppyLove.Services\bin\Debug\netcoreapp2.2\PuppyLove.Services.pdb
+C:\PuppyLove\PuppyLove\PuppyLove.Services\bin\Debug\netcoreapp2.2\PuppyLove.Data.dll
+C:\PuppyLove\PuppyLove\PuppyLove.Services\bin\Debug\netcoreapp2.2\PuppyLove.Model.dll
+C:\PuppyLove\PuppyLove\PuppyLove.Services\bin\Debug\netcoreapp2.2\PuppyLove.Data.pdb
+C:\PuppyLove\PuppyLove\PuppyLove.Services\bin\Debug\netcoreapp2.2\PuppyLove.Model.pdb
+C:\PuppyLove\PuppyLove\PuppyLove.Services\obj\Debug\netcoreapp2.2\PuppyLove.Services.csprojAssemblyReference.cache
+C:\PuppyLove\PuppyLove\PuppyLove.Services\obj\Debug\netcoreapp2.2\PuppyLove.Services.csproj.CoreCompileInputs.cache
+C:\PuppyLove\PuppyLove\PuppyLove.Services\obj\Debug\netcoreapp2.2\PuppyLove.Services.AssemblyInfoInputs.cache
+C:\PuppyLove\PuppyLove\PuppyLove.Services\obj\Debug\netcoreapp2.2\PuppyLove.Services.AssemblyInfo.cs
+C:\PuppyLove\PuppyLove\PuppyLove.Services\obj\Debug\netcoreapp2.2\PuppyLove.Services.csproj.CopyComplete
+C:\PuppyLove\PuppyLove\PuppyLove.Services\obj\Debug\netcoreapp2.2\PuppyLove.Services.dll
+C:\PuppyLove\PuppyLove\PuppyLove.Services\obj\Debug\netcoreapp2.2\PuppyLove.Services.pdb

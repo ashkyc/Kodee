@@ -1,0 +1,9 @@
+C:\PuppyLove\PuppyLove\PuppyLove.Model\bin\Debug\netcoreapp2.2\PuppyLove.Model.deps.json
+C:\PuppyLove\PuppyLove\PuppyLove.Model\bin\Debug\netcoreapp2.2\PuppyLove.Model.dll
+C:\PuppyLove\PuppyLove\PuppyLove.Model\bin\Debug\netcoreapp2.2\PuppyLove.Model.pdb
+C:\PuppyLove\PuppyLove\PuppyLove.Model\obj\Debug\netcoreapp2.2\PuppyLove.Model.csprojAssemblyReference.cache
+C:\PuppyLove\PuppyLove\PuppyLove.Model\obj\Debug\netcoreapp2.2\PuppyLove.Model.csproj.CoreCompileInputs.cache
+C:\PuppyLove\PuppyLove\PuppyLove.Model\obj\Debug\netcoreapp2.2\PuppyLove.Model.AssemblyInfoInputs.cache
+C:\PuppyLove\PuppyLove\PuppyLove.Model\obj\Debug\netcoreapp2.2\PuppyLove.Model.AssemblyInfo.cs
+C:\PuppyLove\PuppyLove\PuppyLove.Model\obj\Debug\netcoreapp2.2\PuppyLove.Model.dll
+C:\PuppyLove\PuppyLove\PuppyLove.Model\obj\Debug\netcoreapp2.2\PuppyLove.Model.pdb

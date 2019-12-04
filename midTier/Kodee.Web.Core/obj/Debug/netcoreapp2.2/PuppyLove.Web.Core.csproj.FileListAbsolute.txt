@@ -1,0 +1,16 @@
+C:\PuppyLove\PuppyLove\PuppyLove.Web.Core\bin\Debug\netcoreapp2.2\PuppyLove.Web.Core.deps.json
+C:\PuppyLove\PuppyLove\PuppyLove.Web.Core\bin\Debug\netcoreapp2.2\PuppyLove.Web.Core.dll
+C:\PuppyLove\PuppyLove\PuppyLove.Web.Core\bin\Debug\netcoreapp2.2\PuppyLove.Web.Core.pdb
+C:\PuppyLove\PuppyLove\PuppyLove.Web.Core\bin\Debug\netcoreapp2.2\PuppyLove.Data.dll
+C:\PuppyLove\PuppyLove\PuppyLove.Web.Core\bin\Debug\netcoreapp2.2\PuppyLove.Model.dll
+C:\PuppyLove\PuppyLove\PuppyLove.Web.Core\bin\Debug\netcoreapp2.2\PuppyLove.Services.dll
+C:\PuppyLove\PuppyLove\PuppyLove.Web.Core\bin\Debug\netcoreapp2.2\PuppyLove.Services.pdb
+C:\PuppyLove\PuppyLove\PuppyLove.Web.Core\bin\Debug\netcoreapp2.2\PuppyLove.Data.pdb
+C:\PuppyLove\PuppyLove\PuppyLove.Web.Core\bin\Debug\netcoreapp2.2\PuppyLove.Model.pdb
+C:\PuppyLove\PuppyLove\PuppyLove.Web.Core\obj\Debug\netcoreapp2.2\PuppyLove.Web.Core.csprojAssemblyReference.cache
+C:\PuppyLove\PuppyLove\PuppyLove.Web.Core\obj\Debug\netcoreapp2.2\PuppyLove.Web.Core.csproj.CoreCompileInputs.cache
+C:\PuppyLove\PuppyLove\PuppyLove.Web.Core\obj\Debug\netcoreapp2.2\PuppyLove.Web.Core.AssemblyInfoInputs.cache
+C:\PuppyLove\PuppyLove\PuppyLove.Web.Core\obj\Debug\netcoreapp2.2\PuppyLove.Web.Core.AssemblyInfo.cs
+C:\PuppyLove\PuppyLove\PuppyLove.Web.Core\obj\Debug\netcoreapp2.2\PuppyLove.Web.Core.csproj.CopyComplete
+C:\PuppyLove\PuppyLove\PuppyLove.Web.Core\obj\Debug\netcoreapp2.2\PuppyLove.Web.Core.dll
+C:\PuppyLove\PuppyLove\PuppyLove.Web.Core\obj\Debug\netcoreapp2.2\PuppyLove.Web.Core.pdb
