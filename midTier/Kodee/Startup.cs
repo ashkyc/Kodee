@@ -82,6 +82,8 @@ namespace Kodee
             services.AddOptions();
             services.Configure<SecurityConfig>(Configuration.GetSection("SecurityConfig"));
             services.Configure<JsonWebTokenConfig>(Configuration.GetSection("JsonWebTokenConfig"));
+            services.AddMemoryCache();
+            services.AddResponseCaching();
         }
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
@@ -104,6 +106,7 @@ namespace Kodee
             app.UseCookiePolicy();
             app.UseCors("AllowAllCors");
             app.UseMvc();
+            app.UseResponseCaching();
         }
     }
 }

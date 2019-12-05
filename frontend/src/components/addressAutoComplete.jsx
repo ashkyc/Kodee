@@ -3,7 +3,8 @@ import PlacesAutocomplete, {
   geocodeByAddress,
   getLatLng
 } from "react-places-autocomplete";
-import { create, getCurrent, getForecast } from "../services/addressService";
+import { getCurrent, getForecast } from "../services/weatherService";
+import { create } from "../services/addressService";
 
 class AddressAutoComplete extends React.Component {
   constructor(props) {

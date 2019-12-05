@@ -19,36 +19,4 @@ const create = payload => {
     .catch(serviceHelper.onGlobalError);
 };
 
-const getCurrent = payload => {
-  const config = {
-    method: "POST",
-    url: entity + "weather",
-    data: payload,
-    withCredentials: true,
-    crossdomain: true,
-    headers: {
-      "content-type": "application/json"
-    }
-  };
-  return axios(config)
-    .then(serviceHelper.onGlobalSuccess)
-    .catch(serviceHelper.onGlobalError);
-};
-
-const getForecast = payload => {
-  const config = {
-    method: "POST",
-    url: entity + "forecast",
-    data: payload,
-    withCredentials: true,
-    crossdomain: true,
-    headers: {
-      "content-type": "application/json"
-    }
-  };
-  return axios(config)
-    .then(serviceHelper.onGlobalSuccess)
-    .catch(serviceHelper.onGlobalError);
-};
-
-export { create, getCurrent, getForecast };
+export { create };
