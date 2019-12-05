@@ -3,6 +3,7 @@ import "./App.css";
 // import AddressForm from "./components/addressForm";
 import AddressAutoComplete from "./components/addressAutoComplete";
 import Weather from "./components/Weather";
+import Forecast from "./components/Forecast";
 import "bootstrap/dist/css/bootstrap.css";
 
 class App extends React.Component {
@@ -20,7 +21,7 @@ class App extends React.Component {
     });
   };
 
-  setForcast = data => {
+  setForecast = data => {
     this.setState({
       forecast: data
     });
@@ -33,11 +34,12 @@ class App extends React.Component {
           <div className="container">
             <div className="header">
               <h1>
-                5 day Weather Forecast
-                <i className="fa fa-umbrella weather-icon"></i>
+                Weather Forecast
+                <i className="fa fa-umbrella weather-icon ml-3"></i>
               </h1>
               <p className="lead">
-                A full-stack practice using OpenWeatherMap and Google Places API
+                A full-stack coding demo using OpenWeatherMap and Google Places
+                API
               </p>
             </div>
 
@@ -46,13 +48,18 @@ class App extends React.Component {
           <div className="container">
             <AddressAutoComplete
               setCurrent={this.setCurrent}
-              setForcast={this.setForcast}
+              setForecast={this.setForecast}
             />
           </div>
-          <div className="container">
-            {this.state.current === null ? null : (
-              <Weather result={this.state} />
-            )}
+          <div className="container mt-5">
+            <div className="row">
+              {this.state.current === null ? null : (
+                <Weather result={this.state.current} />
+              )}
+              {this.state.forecast === null ? null : (
+                <Forecast result={this.state.forecast} />
+              )}
+            </div>
           </div>
         </div>
       </div>

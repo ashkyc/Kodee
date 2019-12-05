@@ -3,7 +3,7 @@ import PlacesAutocomplete, {
   geocodeByAddress,
   getLatLng
 } from "react-places-autocomplete";
-import { create, getForecast } from "../services/addressService";
+import { create, getCurrent, getForecast } from "../services/addressService";
 
 class AddressAutoComplete extends React.Component {
   constructor(props) {
@@ -43,18 +43,27 @@ class AddressAutoComplete extends React.Component {
   };
 
   handleBtnClick = () => {
-    console.log(this.state);
-    // create(this.state)
-    //   .then(this.handleSuccess)
-    //   .catch(this.handleError);
-    getForecast(this.state)
+    create(this.state)
+      .then(this.handleSuccessCreate)
+      .catch(this.handleError);
+    getCurrent(this.state)
       .then(this.handleSuccess)
       .catch(this.handleError);
+    getForecast(this.state)
+      .then(this.handleSuccessForecast)
+      .catch(this.handleError);
+  };
+
+  handleSuccessCreate = () => {
+    console.log("success post");
   };
 
   handleSuccess = data => {
     this.props.setCurrent(data);
-    console.log(data);
+  };
+
+  handleSuccessForecast = data => {
+    this.props.setForecast(data);
   };
 
   handleError = error => {
