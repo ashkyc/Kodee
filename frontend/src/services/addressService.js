@@ -19,4 +19,20 @@ const create = payload => {
     .catch(serviceHelper.onGlobalError);
 };
 
-export { create };
+const getForecast = payload => {
+  const config = {
+    method: "POST",
+    url: entity + "weather",
+    data: payload,
+    withCredentials: true,
+    crossdomain: true,
+    headers: {
+      "content-type": "application/json"
+    }
+  };
+  return axios(config)
+    .then(serviceHelper.onGlobalSuccess)
+    .catch(serviceHelper.onGlobalError);
+};
+
+export { create, getForecast };
